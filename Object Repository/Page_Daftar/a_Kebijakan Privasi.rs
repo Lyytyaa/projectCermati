@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kebijakan Privasi</name>
+   <tag></tag>
+   <elementGuidId>e299f15b-2c16-48d9-a3d3-78f8f592521b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[2]/div/div[4]/label/span/button[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>723e2f9e-43bd-4112-80ff-549016b82a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kebijakan Privasi</value>
+      <webElementGuid>4cada6d2-c4ff-41d6-b5fd-d508230932bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/div[@class=&quot;RegistrationForm_form-container__input-group__W_UVH&quot;]/label[@class=&quot;TermsAndConditions_checkbox__nROFJ justify-content-center&quot;]/span[@class=&quot;TermsAndConditions_checkbox__text__Tl4Uv&quot;]/button[@class=&quot;btn_SGZcZ btn--link_iMrB4 m-0 p-0&quot;]/a[1]</value>
+      <webElementGuid>7f43fde0-8e20-4bcd-ae7d-3e85af2b7dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[2]/div/div[4]/label/span/button[2]/a</value>
+      <webElementGuid>1a848f6b-b5a7-4ab9-af53-309192421f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kebijakan Privasi')]</value>
+      <webElementGuid>d8de64be-fecb-40ee-b3a6-7aa19baa1b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::a[1]</value>
+      <webElementGuid>46646445-88c6-4b82-8a33-1757f0449c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Belakang'])[1]/following::a[2]</value>
+      <webElementGuid>4daec0b3-c97e-420a-97eb-8772c1995b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kebijakan Privasi']/parent::*</value>
+      <webElementGuid>dec26372-8d91-4c88-9c74-cf9bbba3dcc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/a</value>
+      <webElementGuid>1a099863-0e0f-44b5-baf7-6d2025332ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Kebijakan Privasi' or . = 'Kebijakan Privasi')]</value>
+      <webElementGuid>4f5cbbf6-6b8c-45e5-91a1-9c19fea77f10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
